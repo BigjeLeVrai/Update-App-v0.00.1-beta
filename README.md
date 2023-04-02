@@ -1,4 +1,4 @@
-# Update-App-v0.001-beta
+# Update-App-
 # Example Project
 
 # Table of Contents
